@@ -1,0 +1,227 @@
+@charset "utf-8";
+
+/* CSS for Monke Web Site */
+
+body { 
+
+   background-color: #d66d87;
+   color: white;
+   font-family: Verdana, Helvetica, Arial, sans-serif;
+   font-size: 0.9em;
+   padding: 0px;
+   margin: 0px 0px 30px 0px;
+   cursor: url(Cursor3.PNG), auto; 
+}
+
+#sidebar {
+	color: #7c6f00;
+	font-size: small;
+	font-variant: small-caps;
+	line-height: 1.2;
+	padding-right: 10px;
+	border-right: 1px solid #7c6f00;
+	width: 200px;
+	background-image: url(background.jpg);
+	background-repeat: repeat-y;
+	float: left;
+	margin-top: 25px;
+	margin-right: 25px;
+	position: relative;
+
+}
+
+#main_content {
+	float: right;
+	width: 65%;
+	position: relative;
+	margin-top: 25px;
+	margin-right: 25px;
+	color: #7c6f00;
+}
+
+#edges { 
+color: black;
+margin: 25px; 
+}
+
+p {
+   padding-bottom: 5px;
+}
+
+
+
+   /* headlines */
+h1, h2, h3 {
+   font-family: "Times New Roman";
+   font-weight: bold;
+}
+
+h1 {
+    color: #7c6f00;
+    font-size: 1.7em;    
+}
+
+h2 {
+    color: #7c6f00;
+    font-size: 1.2em;
+}
+
+/* banner */
+#banner {
+   text-align: center;
+   margin: 0px;
+   padding: 0px;
+   height: 200px;
+   background-image: url(Eyebrow.PNG);
+   background-size: contain;
+}
+
+#banner h1{
+   color: black;
+   margin:0;
+   font-size: 70px;
+   padding-left: 25px;
+   padding-top: 25px;
+}
+
+
+/* Navigation Bar */
+#navigation ul {
+   margin: 0px;
+   padding: 0px;
+   font-size: 14px;
+   font-variant: normal;
+}
+
+#navigation li {
+    list-style-type: none;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#navigation a {
+    color: #7c6f00;  /*This is only if the rule below is set to 0px*/
+    text-decoration: none;
+    cursor: not-allowed;
+    border-left-width: 0px;  /*See comment above*/
+    border-left-style: solid;
+    border-left-color: #7c6f00;
+    padding-left: 5px;
+}
+
+#navigation a:hover {
+    color: yellow;    
+    text-decoration: none;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: yelow;
+    border-left-width: 1px;
+    border-left-style: solid;
+    border-left-color: yellow;
+    padding-left: 5px;
+}
+
+/* photos */
+.photo {
+    text-align: center;
+    float: right;
+    width: 600px;
+    margin-right: 15px;
+    margin-left: 30px;
+}
+
+.photo p {
+    font-size: 11px;
+    font-weight: bold;
+    margin-top: 0;
+} 
+
+.photo img {
+   border-width: 0px;
+   border-style: solid;
+   border-color: #FFFFFF;
+}
+
+.video {
+    float: right;
+    width: 480px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+#footer { 
+clear: both;
+margin: 0px;
+margin-top: 600px;
+font-size: x-small;
+text-align: center;
+color: #7c6f00;
+padding: 0px;
+}
+
+/* space banner */
+#spacebanner {
+   text-align: center;
+   margin: 0px;
+   padding: 0px;
+   height: 200px;
+   background-image: url(SpaceMonke.PNG);
+   background-size: contain;
+}
+
+#emotebanner {
+   text-align: center;
+   margin: 0px;
+   padding: 0px;
+   height: 200px;
+   background-image: url(Stomp.jpg);
+   background-size: contain;
+}
+
+
+#batbanner {
+   text-align: center;
+   margin: 0px;
+   padding: 0px;
+   height: 200px;
+   background-image: url(4Monkes.PNG);
+   background-size: contain;
+}
+
+#funnycarbanner {
+   text-align: center;
+   margin: 0px;
+   padding: 0px;
+   height: 200px;
+   background-image: url(funnycar.jpg);
+   background-size: contain;
+}
+
+#fearbanner {
+   text-align: center;
+   margin: 0px;
+   padding: 0px;
+   height: 200px;
+   background-image: url(FEAR.PNG);
+   background-size: contain;
+}
+
+#glitchbanner {
+   text-align: center;
+   margin: 0px;
+   padding: 0px;
+   height: 200px;
+   background-image: url(zipline.PNG);
+   background-size: contain;
+}
+
+#hatebanner {
+   text-align: center;
+   margin: 0px;
+   padding: 0px;
+   height: 200px;
+   background-image: url(shoes.jpg);
+   background-size: contain;
+}
+
