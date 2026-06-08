@@ -19,7 +19,7 @@ This website includes a lot of Monke:
 
 ## Live Status:🟢
 Check out the latest version here:  
-https://monkeeatrock.github.io/MONKE/
+https://monkeeatrock.github.io/MONKE/index.html
 
 ## Instructions:
 No installation required (stupid) - open the website on your browser and enjoy!
