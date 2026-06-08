@@ -51,7 +51,7 @@ A special shoutout to everyone who contributed to MONKE OFFICAL WEBSITE
 - **Branding & Visuals:** LAME & OWEM
 - **MONKE HATE:** SWEAT
 
-## Legal & Compliance
+## 📄Legal & Compliance
 - [Terms & Conditions] (https://raw.githubusercontent.com/MonkeEatRock/MONKE/refs/heads/main/Terms%20%26%20Conditions.md)
 
 
