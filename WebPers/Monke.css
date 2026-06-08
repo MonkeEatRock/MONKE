@@ -233,3 +233,12 @@ padding: 0px;
    background-image: url(monkebutt.PNG);
    background-size: contain;
 }
+
+#reviewbanner {
+   text-align: center;
+   margin: 0px;
+   padding: 0px;
+   height: 200px;
+   background-image: url(Cinematic.PNG);
+   background-size: contain;
+}
