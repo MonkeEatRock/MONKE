@@ -51,6 +51,8 @@ A special shoutout to everyone who contributed to MONKE OFFICAL WEBSITE
 - **Branding & Visuals:** LAME & OWEM
 - **MONKE HATE:** SWEAT
 
+## Offical Monke Terms & Conditions:
+(Terms & Conditions.md)
 
 
 By viewing this website, you agree to Monke's terms and conditions (Reciting Monke Pledge)
