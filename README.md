@@ -40,13 +40,13 @@ If you have suggestions for new content? TOO BAD YOU ARE NOT MONKE STUPID.
 Feel free to start a Discussion about how mad this makes you.
 
 ## Project Goals:
-YEATH
+- YEATH
 
 ## Contributors & Support:
 A special shoutout to everyone who contributed to MONKE OFFICAL WEBSITE
 
 - **Project Lead:** LAME
-- **Inspiration** MONKE
+- **Inspiration:** MONKE
 - **Creative Support:** Go Goated, Glitches
 - **Branding & Visuals:** LAME & OWEM
-- **MONKE HATE** SWEAT
+- **MONKE HATE:** SWEAT
