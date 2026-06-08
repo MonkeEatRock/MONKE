@@ -14,8 +14,8 @@ This website includes a lot of Monke:
 - FEAR OF MONKE
 - Darth Vader
 - Monke HATE
--    *WiP's & Coming Soon!
-- Monke Dictionary
+- WiP's & Coming Soon!
+  * Monke Dictionary
 
 ## Live Status:🟢
 Check out the latest version here:  
