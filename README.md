@@ -52,7 +52,7 @@ A special shoutout to everyone who contributed to MONKE OFFICAL WEBSITE
 - **MONKE HATE:** SWEAT
 
 ## Offical Monke Terms & Conditions:
-(Terms%20&%20Conditions.md)
+[Terms & Conditions](Terms%20%26%20Conditions.md)
 
 
 By viewing this website, you agree to Monke's terms and conditions (Reciting Monke Pledge)
