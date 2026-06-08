@@ -65,4 +65,5 @@ Monke is not responsible for:
    - Conversion to Monke
    
 ~~Any third‑party memes, images, or references belong to their respective owners.~~ MONKE OWNS ALL OF IT
+
 By viewing this website, you agree to Monke's terms and conditions (Reciting Monke Pledge)
