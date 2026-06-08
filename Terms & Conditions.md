@@ -216,10 +216,6 @@ For questions, concerns, or banana donations, contact:
 
 ---
 
-# **PAGE FOOTER (APPEARS ON EVERY PAGE)**  
-*Page {{X}} of {{Y}} — Monke Legal Division*  
-
-
 
 # **Notice:**
 All Monke content in this repository is © J.B. Chimpanski (Monke).
