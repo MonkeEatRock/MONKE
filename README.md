@@ -53,6 +53,9 @@ A special shoutout to everyone who contributed to MONKE OFFICAL WEBSITE
 
 ## 📄Legal & Compliance
 - [Terms & Conditions] (https://raw.githubusercontent.com/MonkeEatRock/MONKE/refs/heads/main/Terms%20%26%20Conditions.md)
+- [Privacy Policy]
+(https://raw.githubusercontent.com/MonkeEatRock/MONKE/refs/heads/main/Privacy%20Policy.md)
+- [Cookie Policy]
 
 
 By viewing this website, you agree to Monke's terms and conditions (Reciting Monke Pledge)
