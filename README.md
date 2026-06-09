@@ -58,6 +58,6 @@ A special shoutout to everyone who contributed to MONKE OFFICAL WEBSITE
 - [Cookie Policy]
 (https://raw.githubusercontent.com/MonkeEatRock/MONKE/refs/heads/main/Cookie%20Policy.md)
 - DMCA Notice
-- ()
+(https://raw.githubusercontent.com/MonkeEatRock/MONKE/refs/heads/main/DMCA%20Notice.md)
 
 By viewing this website, you agree to Monke's terms and conditions (Reciting Monke Pledge)
