@@ -135,7 +135,9 @@ Using the Website may result in:
 * Uncontrollable desire to steal  
 * Fear of Monke  
 * Unexpected car consumption  
-* Emotional attachment to rocks  
+* Emotional attachment to rocks
+* Sudden urges to Go Get
+* Healthy affections toward Monke  
 
 ---
 
@@ -182,7 +184,8 @@ Your access may be revoked if you:
 - Fail to recite the Monke Pledge  
 - Steal improperly  
 - Show insufficient enthusiasm for Zesty Monke  
-- Commit crimes against bananas  
+- Commit crimes against bananas
+- Show affection toward tulips, Mariah Carey, gingerbread, or casseroles
 (Reference: )
 
 ---
@@ -221,14 +224,5 @@ For questions, concerns, or banana donations, contact:
 All Monke content in this repository is © J.B. Chimpanski (Monke).
 This project is by Monke, for Monke, and only Monke's.
 You may not reuse, repost, or redistribute Monke assets without permission. If given permission, provide appropriate credit to this repository (and MONKE).
-Sharing of this repository/Monke Website is permitted if and only if Monke pledge is recited (See Shed)
-
-Monke is not responsible for:
-
-   - Fear of Monke
-   - Images of Monke engrained in your mind
-   - Sudden urges to go get
-   - Cravings for rock
-   - Conversion to Monke
-   
-~~Any third‑party memes, images, or references belong to their respective owners.~~ MONKE OWNS ALL OF IT
+Sharing of this repository/Monke Website is permitted if and only if Monke pledge is recited
+Any third‑party memes, images, or references belong to MONKE
