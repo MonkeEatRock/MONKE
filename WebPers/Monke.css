@@ -302,5 +302,13 @@ padding: 0px;
         display: block;
         margin: 10px auto;
     }
+    #edges {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #sidebar {
+        order: -1; /* moves sidebar to the top */
+    }
 }
 
