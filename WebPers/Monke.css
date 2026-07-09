@@ -122,27 +122,6 @@ h2 {
     padding-left: 5px;
 }
 
-/* photos */
-.photo {
-    text-align: center;
-    float: right;
-    width: 600px;
-    margin-right: 15px;
-    margin-left: 30px;
-}
-
-.photo p {
-    font-size: 11px;
-    font-weight: bold;
-    margin-top: 0;
-} 
-
-.photo img {
-   border-width: 0px;
-   border-style: solid;
-   border-color: #FFFFFF;
-}
-
 #footer { 
 clear: both;
 margin: 0px;
@@ -245,6 +224,13 @@ padding: 0px;
    background-size: contain;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+
 /* MOBILE STYLES — apply only when screen width is 768px or smaller */
 @media (max-width: 768px) {
 
@@ -264,6 +250,13 @@ padding: 0px;
         width: 100% !important;
         float: none !important;
         padding: 10px;
+    }
+    
+    #main_content, #sidebar {
+        float: none !important;
+        width: 100% !important;
+        margin: 0 !important;
+        padding: 10px !important;
     }
     
     #navigation ul {
@@ -313,6 +306,25 @@ padding: 0px;
         display: flex;
         flex-direction: column;
         width: 100%;
+        overflow-x: hidden; /* prevents sideways scrolling */
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+    
+    /* Make banners fill the screen properly */
+    #banner,
+    #spacebanner,
+    #emotebanner,
+    #batbanner,
+    #funnycarbanner,
+    #fearbanner,
+    #glitchbanner,
+    #hatebanner,
+    #zestybanner,
+    #reviewbanner,
+    #ogbanner {
+        background-size: cover !important;
+        background-position: center !important;
     }
 }
 
