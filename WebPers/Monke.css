@@ -244,3 +244,63 @@ padding: 0px;
    background-image: url(ogplane.png);
    background-size: contain;
 }
+
+/* MOBILE STYLES — apply only when screen width is 768px or smaller */
+@media (max-width: 768px) {
+
+    /* Sidebar moves to the top and becomes a horizontal scrolling bar */
+    #sidebar {
+        width: 100%;
+        float: none;
+        display: flex;
+        overflow-x: auto;
+        white-space: nowrap;
+        background: #f0f0f0; /* optional */
+        padding: 10px 0;
+    }
+
+    #navigation ul {
+        padding: 0;
+        margin: 0;
+        display: flex;
+        gap: 10px;
+    }
+
+    #navigation li {
+        list-style: none;
+        display: inline-block;
+        padding: 10px;
+        flex: 0 0 auto;
+        text-align: center;
+    }
+
+    #navigation a {
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+    /* Mobile-only text improvements */
+    body {
+        font-size: 1rem;
+        line-height: 1.5;
+        padding: 10px;
+    }
+
+    h1 {
+        font-size: 1.8rem;
+    }
+
+    p {
+        font-size: 1rem;
+    }
+
+    /* Responsive videos */
+    iframe {
+        width: 100%;
+        height: auto;
+        aspect-ratio: 16 / 9;
+        display: block;
+        margin: 10px auto;
+    }
+}
+
