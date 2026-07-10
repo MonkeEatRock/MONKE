@@ -241,9 +241,9 @@ img {
         display: flex;
         overflow-x: auto;
         white-space: nowrap;
-        background: #f0f0f0; /* optional */
+        background: #d66d87;
         padding: 10px 0;
-        order: -1; /* moves sidebar to the top */
+        
     }
     
      #main_content {
