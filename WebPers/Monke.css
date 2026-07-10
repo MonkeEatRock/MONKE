@@ -241,8 +241,8 @@ img {
         display: flex;
         overflow-x: auto;
         white-space: nowrap;
-        background: #d66d87;
         padding: 10px 0;
+        order: 1;
         
     }
     
@@ -257,6 +257,7 @@ img {
         width: 100% !important;
         margin: 0 !important;
         padding: 10px !important;
+        background: #d66d87;
     }
     
     #navigation ul {
@@ -323,7 +324,7 @@ img {
     #zestybanner,
     #reviewbanner,
     #ogbanner {
-        background-size: cover !important;
+        background-size: contain !important;
         background-position: center !important;
     }
 }
