@@ -242,23 +242,13 @@ img {
         overflow-x: auto;
         white-space: nowrap;
         padding: 10px 0;
-        order: 0;
-        
+        background: #d66d87;
     }
     
      #main_content {
         width: 100% !important;
         float: none !important;
         padding: 10px;
-        order: 1;
-    }
-    
-    #main_content, #sidebar {
-        float: none !important;
-        width: 100% !important;
-        margin: 0 !important;
-        padding: 10px !important;
-        background: #d66d87;
     }
     
     #navigation ul {
@@ -305,18 +295,13 @@ img {
         margin: 10px auto;
     }
     #edges {
-        display: flex;
-        flex-direction: column;
         width: 100%;
         overflow-x: hidden; /* prevents sideways scrolling */
         margin: 0 !important;
         padding: 0 !important;
-        order: -1;
     }
     
-    #footer {
-      order: 2;
-    }
+
 
     
     /* Make banners fill the screen properly */
@@ -331,7 +316,6 @@ img {
     #zestybanner,
     #reviewbanner,
     #ogbanner {
-        order: -1;
         background-size: contain !important;
         background-position: center !important;
     }
