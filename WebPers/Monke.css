@@ -242,7 +242,7 @@ img {
         overflow-x: auto;
         white-space: nowrap;
         padding: 10px 0;
-        order: 1;
+        order: 0;
         
     }
     
@@ -250,6 +250,7 @@ img {
         width: 100% !important;
         float: none !important;
         padding: 10px;
+        order: 1;
     }
     
     #main_content, #sidebar {
@@ -312,6 +313,11 @@ img {
         padding: 0 !important;
     }
     
+    #footer {
+      order: 2;
+    }
+
+    
     /* Make banners fill the screen properly */
     #banner,
     #spacebanner,
@@ -324,6 +330,7 @@ img {
     #zestybanner,
     #reviewbanner,
     #ogbanner {
+        order: -1;
         background-size: contain !important;
         background-position: center !important;
     }
