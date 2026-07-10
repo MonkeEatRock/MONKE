@@ -311,6 +311,7 @@ img {
         overflow-x: hidden; /* prevents sideways scrolling */
         margin: 0 !important;
         padding: 0 !important;
+        order: -1;
     }
     
     #footer {
