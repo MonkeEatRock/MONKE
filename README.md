@@ -19,7 +19,6 @@ This website includes a lot of Monke:
   * *WiP's & Coming Soon!*
 
 ## Live Status:🔴
-
 **🟢 = Fully Operational**
 **🟡 = Operational With Known Buggs & Issues**
 **🔴 = Unoperational**
