@@ -323,9 +323,10 @@ img {
 /* Fixes desktop layout of dictionary.html */
 .dictionary_entry img {
     max-width: 300px;
-    width: 100%;
+    width: auto;
     height: auto;
     display: block;
-    margin: 10px auto;
+    margin: 10px 0;
 }
+
 
