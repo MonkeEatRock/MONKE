@@ -320,7 +320,7 @@ img {
 }
 
 
-/* Fixes desktop layout of dictionary.html */
+/* Fixes desktop layout of dictionary.html its stupid 67*/
 .dictionary_entry img {
     max-width: 300px;
     width: auto;
