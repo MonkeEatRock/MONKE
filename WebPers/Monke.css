@@ -300,8 +300,6 @@ img {
         margin: 0 !important;
         padding: 0 !important;
     }
-    
-
 
     
     /* Make banners fill the screen properly */
@@ -319,5 +317,15 @@ img {
         background-size: contain !important;
         background-position: center !important;
     }
+}
+
+
+/* Fixes desktop layout of dictionary.html */
+.dictionary_entry img {
+    max-width: 300px;
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px auto;
 }
 
