@@ -329,12 +329,6 @@ img {
     margin: 10px 0;
 }
 
-/* Dictionary dividing lines */
-hr {
-    border: none;
-    border-top: 2px solid #7c6f00;
-    margin: 20px 0;
-}
 
 /* Return to Top Button */
 .back-to-top {
