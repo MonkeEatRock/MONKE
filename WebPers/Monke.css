@@ -224,6 +224,15 @@ padding: 0px;
    background-size: contain;
 }
 
+#playlistbanner {
+   text-align: center;
+   margin: 0px;
+   padding: 0px;
+   height: 200px;
+   background-image: url(woman.png);
+   background-size: contain;
+}
+
 img {
     max-width: 100%;
     height: auto;
