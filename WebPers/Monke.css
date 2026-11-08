@@ -322,7 +322,8 @@ img {
     #hatebanner,
     #zestybanner,
     #reviewbanner,
-    #ogbanner {
+    #ogbanner
+    #playlistbanner{
         background-size: contain !important;
         background-position: center !important;
     }
